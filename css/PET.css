@@ -57,7 +57,3 @@ h1 {
 #new-quote:hover {
     background-color: #2980b9;
 }
-
-#new-quote:active {
-    transform: scale(0.98);
-}
